@@ -49,11 +49,13 @@ https://github.com/Abubakar-Bajwa/WEB322-GitHub-Vercel
 
 ## Vercel Deployment
 
+https://vercel.com/muhammad-bajwa/web-322-git-hub-vercel
+
 **Live Website:** 
 
 ## Conclusion
 
-In this lab, I created a web server application using Node.js and Express.js. I tested the application on localhost:3000 and used GitHub to host my project files. The application is intended to be deployed on Vercel so it can be accessed online.
+In this lab, I created a web server application using Node.js and Express.js. I tested the application on localhost:3000 and used GitHub to host my project files. The application has been deployed on Vercel so it can be accessed online.
 
 
 
