@@ -49,9 +49,8 @@ https://github.com/Abubakar-Bajwa/WEB322-GitHub-Vercel
 
 ## Vercel Deployment
 
-https://web-322-git-hub-vercel-nine.vercel.app
-
 **Live Website:** 
+https://web-322-git-hub-vercel-nine.vercel.app
 
 ## Conclusion
 
